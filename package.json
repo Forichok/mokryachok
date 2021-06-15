@@ -21,6 +21,7 @@
     "fastify-plugin": "3.0.0",
     "mongodb": "^3.6.6",
     "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.0.2",
     "typeorm": "^0.2.32"
   },
   "devDependencies": {
